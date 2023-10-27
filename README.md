@@ -12,3 +12,4 @@
 
 ## Referencias
 ## Licencias
+![by-nc-nd](https://github.com/Nathillas/Develops/assets/148760008/10d0a055-e26f-42e6-9ea2-65a857d6b12a)
