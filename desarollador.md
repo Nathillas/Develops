@@ -9,4 +9,6 @@ lenguajes de programación
 * Permite fabricar software mas rapidamente, con mayor calidad, menor coste y altísima frecuencia de releases.
 ![Captura desde 2023-10-27 09-15-19](https://github.com/Nathillas/Develops/assets/148760008/043cf9d6-6879-44c1-a30a-1bc8fb7c4815)
 
+
+
 [Video de YOUTUBE](https://www.youtube.com/watch?v=p-bOnV8FRMQ)
